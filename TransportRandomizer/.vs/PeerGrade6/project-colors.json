@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "181166c6-8bd2-49e5-b497-6976e54910bc": {
+      "ProjectGuid": "181166c6-8bd2-49e5-b497-6976e54910bc",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 0
+    },
+    "89b0ab6f-8f32-4d2b-804f-006396076ee9": {
+      "ProjectGuid": "89b0ab6f-8f32-4d2b-804f-006396076ee9",
+      "DisplayName": "EKRLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
